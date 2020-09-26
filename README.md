@@ -13,9 +13,7 @@
 
 ![image-20200926141459774](./img/image-20200926141459774.png)
 
-1. That's it!
-
-
+4. That's it!
 
 If you want to make custom meme on your own, replace `fun_cool_sexy.png` with image file of your own, run on Google Colab notebook.
 
