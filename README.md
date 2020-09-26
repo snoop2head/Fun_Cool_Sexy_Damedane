@@ -10,8 +10,10 @@
 ![demo](./img/demo.gif)
 
 3. Download from colab 
-   ![image-20200926141459774](./img/image-20200926141459774.png)
-4. That's it!
+
+![image-20200926141459774](./img/image-20200926141459774.png)
+
+1. That's it!
 
 
 
