@@ -4,7 +4,7 @@
 
 ## How to use it?
 
-1. Simply run at Colab notebook: 
+1. Simply run at [Colab notebook on main.ipynb](https://colab.research.google.com/github/snoop2head/Fun_Cool_Sexy_Damedane/blob/master/main.ipynb)
 2. You will get mp4 file with sound like following:
 
 ![demo](./img/demo.gif)
